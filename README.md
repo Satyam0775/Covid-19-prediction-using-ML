@@ -4,7 +4,7 @@
 
 The goal of this project is to predict whether an individual is Covid-19 positive based on minimal symptoms such as fever, cough, age above 60, sore throat, and other related factors.
 
-###🚀 Models Implemented
+### 🚀 Models Implemented
 
 #Artificial Neural Networks (ANN)
 
