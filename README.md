@@ -1,34 +1,39 @@
-# Covid-19-prediction-using-ML
+# **Covid-19 Prediction Using Machine Learning**
 
-## 🎯 Objective
-The goal of this project is to predict whether an individual is Covid-19 positive based on minimal symptoms such as fever, cough, age above 60, sore throat, and other related factors.
+### 🎯 Goal
+This project aims to predict whether a person is Covid-19 positive (+ve) or not based on minimal possible symptoms such as fever, cough, age above 60, sore throat, etc.
 
 ### 🚀 Models Implemented
+We have implemented and evaluated the following machine learning models:
 
-Artificial Neural Networks (ANN)
+1. Artificial Neural Networks (ANN)
+ANNs are computing systems inspired by the biological neural networks that constitute animal brains. An ANN consists of layers of nodes, each layer fully connected to the next one, capable of learning complex patterns from data.
 
-Inspired by biological neural networks, ANNs consist of layers of interconnected nodes that can learn complex patterns from data. They are particularly well-suited for various prediction tasks.
-Gradient Boosting
+2. Gradient Boosting
+Gradient Boosting is an ensemble learning technique that builds multiple decision trees sequentially. Each tree tries to correct the errors of the previous one, resulting in a powerful model that can achieve high predictive accuracy.
 
-This ensemble learning technique builds multiple decision trees sequentially. Each tree attempts to correct the errors of the previous ones, resulting in a robust model with high predictive accuracy.
-Random Forest
+3. Random Forest
+Random Forest is an ensemble of decision trees. It builds multiple decision trees during training time and outputs the class that is the mode of the classes of the individual trees, reducing overfitting and improving generalization.
 
-An ensemble of decision trees, Random Forest constructs numerous trees during training and outputs the class that is the mode of the classes of the individual trees. This approach reduces overfitting and enhances generalization.
-Logistic Regression
+4. Logistic Regression
+Logistic Regression is a statistical model that uses a logistic function to model a binary dependent variable. It is a simple yet effective method for binary classification problems, such as predicting the presence or absence of a disease.
 
-A statistical model that utilizes a logistic function to model a binary dependent variable. It is simple yet effective for binary classification problems, such as predicting the presence or absence of a disease.
-Decision Trees
+5. Decision Trees
+Decision Trees are a non-parametric supervised learning method used for classification and regression. The model predicts the value of a target variable by learning simple decision rules inferred from the data features.
 
-A non-parametric supervised learning method used for both classification and regression tasks. Decision Trees predict the value of a target variable by learning simple decision rules inferred from the data features.
-📈 Best Performing Model
-The Artificial Neural Network (ANN) emerged as the best-performing model, achieving an accuracy of 95.77%. This high accuracy highlights its effectiveness in capturing the complex relationships between symptoms and Covid-19 status.
+### 📈Best Performing Model
+Among all the models, the Artificial Neural Network (ANN) performed the best, achieving an accuracy of 95.77%.
 
-📊 Performance of the Models Based on Accuracy Scores
-The models were evaluated based on their accuracy scores, with the following results:
+### 📊 Block Diagram for understanding
+![Block_dia](https://github.com/jeet-Abhi123/Road-Safety-Data-Analysis-Power-BI-/assets/143840497/4c5c2705-505b-4ab6-8357-4f0a39cfd64c)
 
-Artificial Neural Networks (ANN): 95.77% (Best-performing model)
-Gradient Boosting: Lower than ANN but still highly effective
-Random Forest: Comparable to Gradient Boosting
-Logistic Regression: Effective for simpler relationships
-Decision Trees: Basic model with lower accuracy compared to ensemble methods
-These results demonstrate the varying effectiveness of different machine learning models in predicting Covid-19 positivity based on symptoms. The ANN's superior performance underscores its capability in handling complex data patterns.
+### 📈 Performance of the Models based on the Accuracy Scores
+![Screenshot 2024-04-30 013049](https://github.com/jeet-Abhi123/Road-Safety-Data-Analysis-Power-BI-/assets/143840497/a2ea486f-0400-4193-8c19-bd196093a132)
+
+![Screenshot 2024-04-30 011339](https://github.com/jeet-Abhi123/Road-Safety-Data-Analysis-Power-BI-/assets/143840497/7ccd6132-46f1-4ef6-8310-2537034d1f66)
+
+## ✒️ Contributor
+
+### Name : Abhijeet Kaithwas
+LinkedIn : https://www.linkedin.com/in/abhijeet-kaithwas-1866b5256/
+
