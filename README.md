@@ -24,7 +24,7 @@ A non-parametric supervised learning method used for both classification and reg
 ###📈 Best Performing Model
 The Artificial Neural Network (ANN) emerged as the best-performing model, achieving an accuracy of 95.77%. This high accuracy highlights its effectiveness in capturing the complex relationships between symptoms and Covid-19 status.
 
-###📊 Performance of the Models Based on Accuracy Scores
+### 📈Best Performing Model Based on Accuracy Scores
 
 The models were evaluated based on their accuracy scores, with the following results:
 
