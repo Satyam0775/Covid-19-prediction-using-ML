@@ -33,3 +33,5 @@ Logistic Regression: Effective for simpler relationships
 Decision Trees: Basic model with lower accuracy compared to ensemble methods
 These results demonstrate the varying effectiveness of different machine learning models in predicting Covid-19 positivity based on symptoms. The ANN's superior performance underscores its capability in handling complex data patterns.
 
+### 📊 Block Diagram for understanding
+![Block_dia](https://github.com/Satyam0775/Road-Safety-Data-Analysis-Power-BI-/assets/143840497/4c5c2705-505b-4ab6-8357-4f0a39cfd64c)
