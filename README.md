@@ -25,12 +25,13 @@ A non-parametric supervised learning method used for both classification and reg
 The Artificial Neural Network (ANN) emerged as the best-performing model, achieving an accuracy of 95.77%. This high accuracy highlights its effectiveness in capturing the complex relationships between symptoms and Covid-19 status.
 
 ###📊 Performance of the Models Based on Accuracy Scores
+
 The models were evaluated based on their accuracy scores, with the following results:
 
-#Artificial Neural Networks (ANN): 95.77% (Best-performing model)
-#Gradient Boosting: Lower than ANN but still highly effective
-#Random Forest: Comparable to Gradient Boosting
-#Logistic Regression: Effective for simpler relationships
-#Decision Trees: Basic model with lower accuracy compared to ensemble methods
+## Artificial Neural Networks (ANN): 95.77% (Best-performing model)
+## Gradient Boosting: Lower than ANN but still highly effective
+## Random Forest: Comparable to Gradient Boosting
+## Logistic Regression: Effective for simpler relationships
+## Decision Trees: Basic model with lower accuracy compared to ensemble methods
 These results demonstrate the varying effectiveness of different machine learning models in predicting Covid-19 positivity based on symptoms. The ANN's superior performance underscores its capability in handling complex data patterns.
 
